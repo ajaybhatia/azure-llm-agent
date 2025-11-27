@@ -1,0 +1,14 @@
+[project]
+name = "azure-llm-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-adk>=1.19.0",
+    "litellm>=1.80.5",
+    "python-dotenv>=1.2.1",
+]
+
+[tool.uv.sources]
+google-adk = { git = "https://github.com/mmphego/adk-python.git", rev = "fix/pydantic-v2-swagger-ui" }
