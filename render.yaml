@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: survey-agent
+    runtime: docker
+    plan: free
+    region: oregon
+
+    # Build and start commands
+    dockerfilePath: ./Dockerfile
+
+    # Environment variables - add your secrets in Render dashboard
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: AZURE_API_BASE
+        sync: false # Set this manually in Render dashboard
+      - key: AZURE_API_KEY
+        sync: false # Set this manually in Render dashboard
+
