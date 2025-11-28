@@ -1,0 +1,904 @@
+{
+  "members": [
+    {
+      "id": "M001",
+      "name": "John Smith",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["Hypertension", "Type 2 Diabetes"]
+    },
+    {
+      "id": "M002",
+      "name": "Maria Garcia",
+      "gender": "Female",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["Asthma", "Allergies"]
+    },
+    {
+      "id": "M003",
+      "name": "Ahmad Hassan",
+      "gender": "Male",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": ["Migraine", "Anxiety"]
+    },
+    {
+      "id": "M004",
+      "name": "Priya Patel",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Thyroid", "High Cholesterol"]
+    },
+    {
+      "id": "M005",
+      "name": "Lisa Wong",
+      "gender": "Female",
+      "language": "Mandarin",
+      "ethnicity": "East Asian",
+      "race": "Chinese",
+      "medical_history": []
+    },
+    {
+      "id": "M006",
+      "name": "David Johnson",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["High Blood Pressure"]
+    },
+    {
+      "id": "M007",
+      "name": "Sarah Williams",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African American",
+      "medical_history": ["Fibromyalgia", "Arthritis"]
+    },
+    {
+      "id": "M008",
+      "name": "James Brown",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M009",
+      "name": "Jennifer Davis",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["Depression", "Anxiety"]
+    },
+    {
+      "id": "M010",
+      "name": "Robert Miller",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["COPD"]
+    },
+    {
+      "id": "M011",
+      "name": "Maria Rodriguez",
+      "gender": "Female",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["Gestational Diabetes"]
+    },
+    {
+      "id": "M012",
+      "name": "Carlos Martinez",
+      "gender": "Male",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M013",
+      "name": "Fatima Al-Rashid",
+      "gender": "Female",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": ["Hypertension"]
+    },
+    {
+      "id": "M014",
+      "name": "Hassan Ahmed",
+      "gender": "Male",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": ["Kidney Disease"]
+    },
+    {
+      "id": "M015",
+      "name": "Aisha Mohammed",
+      "gender": "Female",
+      "language": "Arabic",
+      "ethnicity": "African",
+      "race": "Arab",
+      "medical_history": ["Asthma"]
+    },
+    {
+      "id": "M016",
+      "name": "Rajesh Kumar",
+      "gender": "Male",
+      "language": "Hindi",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Type 2 Diabetes", "Hypertension"]
+    },
+    {
+      "id": "M017",
+      "name": "Anita Singh",
+      "gender": "Female",
+      "language": "Hindi",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Thyroid", "Anemia"]
+    },
+    {
+      "id": "M018",
+      "name": "Wei Chen",
+      "gender": "Male",
+      "language": "Mandarin",
+      "ethnicity": "East Asian",
+      "race": "Chinese",
+      "medical_history": ["Stroke"]
+    },
+    {
+      "id": "M019",
+      "name": "Lin Zhang",
+      "gender": "Female",
+      "language": "Mandarin",
+      "ethnicity": "East Asian",
+      "race": "Chinese",
+      "medical_history": ["Breast Cancer"]
+    },
+    {
+      "id": "M020",
+      "name": "Yuki Tanaka",
+      "gender": "Male",
+      "language": "Japanese",
+      "ethnicity": "East Asian",
+      "race": "Japanese",
+      "medical_history": []
+    },
+    {
+      "id": "M021",
+      "name": "Keiko Yamamoto",
+      "gender": "Female",
+      "language": "Japanese",
+      "ethnicity": "East Asian",
+      "race": "Japanese",
+      "medical_history": ["Osteoporosis"]
+    },
+    {
+      "id": "M022",
+      "name": "Michael O'Brien",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Irish",
+      "medical_history": ["Alcoholism Recovery"]
+    },
+    {
+      "id": "M023",
+      "name": "Patricia Murphy",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Irish",
+      "medical_history": ["Migraine"]
+    },
+    {
+      "id": "M024",
+      "name": "Vladimir Petrov",
+      "gender": "Male",
+      "language": "Russian",
+      "ethnicity": "European",
+      "race": "Russian",
+      "medical_history": ["Heart Disease", "High Cholesterol"]
+    },
+    {
+      "id": "M025",
+      "name": "Olga Volkova",
+      "gender": "Female",
+      "language": "Russian",
+      "ethnicity": "European",
+      "race": "Russian",
+      "medical_history": ["Depression"]
+    },
+    {
+      "id": "M026",
+      "name": "Pierre Dubois",
+      "gender": "Male",
+      "language": "French",
+      "ethnicity": "European",
+      "race": "French",
+      "medical_history": ["Diabetes"]
+    },
+    {
+      "id": "M027",
+      "name": "Monique Leclerc",
+      "gender": "Female",
+      "language": "French",
+      "ethnicity": "European",
+      "race": "French",
+      "medical_history": ["Lupus"]
+    },
+    {
+      "id": "M028",
+      "name": "Klaus Schmidt",
+      "gender": "Male",
+      "language": "German",
+      "ethnicity": "European",
+      "race": "German",
+      "medical_history": ["Prostate Cancer"]
+    },
+    {
+      "id": "M029",
+      "name": "Heidi Mueller",
+      "gender": "Female",
+      "language": "German",
+      "ethnicity": "European",
+      "race": "German",
+      "medical_history": []
+    },
+    {
+      "id": "M030",
+      "name": "Juan Garcia",
+      "gender": "Male",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["Type 2 Diabetes", "Obesity"]
+    },
+    {
+      "id": "M031",
+      "name": "Rosa Martinez",
+      "gender": "Female",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["High Blood Pressure"]
+    },
+    {
+      "id": "M032",
+      "name": "Antonio Rossi",
+      "gender": "Male",
+      "language": "Italian",
+      "ethnicity": "European",
+      "race": "Italian",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M033",
+      "name": "Isabella Moretti",
+      "gender": "Female",
+      "language": "Italian",
+      "ethnicity": "European",
+      "race": "Italian",
+      "medical_history": []
+    },
+    {
+      "id": "M034",
+      "name": "Marcus Johnson",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African American",
+      "medical_history": ["Sickle Cell Disease"]
+    },
+    {
+      "id": "M035",
+      "name": "Keisha Washington",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African American",
+      "medical_history": ["Type 2 Diabetes", "High Blood Pressure"]
+    },
+    {
+      "id": "M036",
+      "name": "Kwame Asante",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African",
+      "medical_history": ["Malaria History"]
+    },
+    {
+      "id": "M037",
+      "name": "Amara Okafor",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African",
+      "medical_history": ["Anemia"]
+    },
+    {
+      "id": "M038",
+      "name": "Jamal Turner",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African American",
+      "medical_history": ["Hypertension"]
+    },
+    {
+      "id": "M039",
+      "name": "Zara Cohen",
+      "gender": "Female",
+      "language": "Hebrew",
+      "ethnicity": "Middle Eastern",
+      "race": "Jewish",
+      "medical_history": ["Celiac Disease"]
+    },
+    {
+      "id": "M040",
+      "name": "David Levy",
+      "gender": "Male",
+      "language": "Hebrew",
+      "ethnicity": "Middle Eastern",
+      "race": "Jewish",
+      "medical_history": ["Type 1 Diabetes"]
+    },
+    {
+      "id": "M041",
+      "name": "Sanjay Kapoor",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Type 2 Diabetes", "High Cholesterol"]
+    },
+    {
+      "id": "M042",
+      "name": "Meera Desai",
+      "gender": "Female",
+      "language": "Gujarati",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Thyroid"]
+    },
+    {
+      "id": "M043",
+      "name": "Ahmed Khan",
+      "gender": "Male",
+      "language": "Urdu",
+      "ethnicity": "South Asian",
+      "race": "Pakistani",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M044",
+      "name": "Amina Hassan",
+      "gender": "Female",
+      "language": "Somali",
+      "ethnicity": "African",
+      "race": "Somali",
+      "medical_history": ["High Blood Pressure"]
+    },
+    {
+      "id": "M045",
+      "name": "Mohamed Ali",
+      "gender": "Male",
+      "language": "Somali",
+      "ethnicity": "African",
+      "race": "Somali",
+      "medical_history": []
+    },
+    {
+      "id": "M046",
+      "name": "Nguyen Tran",
+      "gender": "Male",
+      "language": "Vietnamese",
+      "ethnicity": "East Asian",
+      "race": "Vietnamese",
+      "medical_history": ["Hypertension"]
+    },
+    {
+      "id": "M047",
+      "name": "Linh Pham",
+      "gender": "Female",
+      "language": "Vietnamese",
+      "ethnicity": "East Asian",
+      "race": "Vietnamese",
+      "medical_history": ["Asthma"]
+    },
+    {
+      "id": "M048",
+      "name": "Jorge Hernandez",
+      "gender": "Male",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M049",
+      "name": "Carmen Lopez",
+      "gender": "Female",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": []
+    },
+    {
+      "id": "M050",
+      "name": "Thomas Anderson",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["PTSD"]
+    },
+    {
+      "id": "M051",
+      "name": "Elizabeth Taylor",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["Breast Cancer Recovery"]
+    },
+    {
+      "id": "M052",
+      "name": "Christopher Lee",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "East Asian",
+      "race": "Chinese American",
+      "medical_history": ["High Cholesterol"]
+    },
+    {
+      "id": "M053",
+      "name": "Michelle Chen",
+      "gender": "Female",
+      "language": "Mandarin",
+      "ethnicity": "East Asian",
+      "race": "Chinese",
+      "medical_history": []
+    },
+    {
+      "id": "M054",
+      "name": "Daniel Park",
+      "gender": "Male",
+      "language": "Korean",
+      "ethnicity": "East Asian",
+      "race": "Korean",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M055",
+      "name": "Ji-woo Kim",
+      "gender": "Female",
+      "language": "Korean",
+      "ethnicity": "East Asian",
+      "race": "Korean",
+      "medical_history": ["Hypothyroidism"]
+    },
+    {
+      "id": "M056",
+      "name": "Somchai Sawasdee",
+      "gender": "Male",
+      "language": "Thai",
+      "ethnicity": "Southeast Asian",
+      "race": "Thai",
+      "medical_history": []
+    },
+    {
+      "id": "M057",
+      "name": "Siriporn Nakchang",
+      "gender": "Female",
+      "language": "Thai",
+      "ethnicity": "Southeast Asian",
+      "race": "Thai",
+      "medical_history": ["Diabetes"]
+    },
+    {
+      "id": "M058",
+      "name": "Arjun Nair",
+      "gender": "Male",
+      "language": "Malayalam",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M059",
+      "name": "Anjali Reddy",
+      "gender": "Female",
+      "language": "Telugu",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Thyroid", "Infertility"]
+    },
+    {
+      "id": "M060",
+      "name": "Philip Grant",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "British",
+      "medical_history": ["Gout"]
+    },
+    {
+      "id": "M061",
+      "name": "Victoria Stewart",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "British",
+      "medical_history": []
+    },
+    {
+      "id": "M062",
+      "name": "Henrik Bergman",
+      "gender": "Male",
+      "language": "Swedish",
+      "ethnicity": "European",
+      "race": "Swedish",
+      "medical_history": ["High Blood Pressure"]
+    },
+    {
+      "id": "M063",
+      "name": "Ingrid Larsson",
+      "gender": "Female",
+      "language": "Swedish",
+      "ethnicity": "European",
+      "race": "Swedish",
+      "medical_history": []
+    },
+    {
+      "id": "M064",
+      "name": "Erik Johansson",
+      "gender": "Male",
+      "language": "Swedish",
+      "ethnicity": "European",
+      "race": "Swedish",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M065",
+      "name": "Lucia Rossi",
+      "gender": "Female",
+      "language": "Italian",
+      "ethnicity": "European",
+      "race": "Italian",
+      "medical_history": ["Asthma"]
+    },
+    {
+      "id": "M066",
+      "name": "Marco Bianchi",
+      "gender": "Male",
+      "language": "Italian",
+      "ethnicity": "European",
+      "race": "Italian",
+      "medical_history": []
+    },
+    {
+      "id": "M067",
+      "name": "Carlos Sanchez",
+      "gender": "Male",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M068",
+      "name": "Isabella Fernandez",
+      "gender": "Female",
+      "language": "Spanish",
+      "ethnicity": "Hispanic",
+      "race": "Latino",
+      "medical_history": ["High Blood Pressure"]
+    },
+    {
+      "id": "M069",
+      "name": "Dimitri Papadopoulos",
+      "gender": "Male",
+      "language": "Greek",
+      "ethnicity": "European",
+      "race": "Greek",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M070",
+      "name": "Sophia Nikolaou",
+      "gender": "Female",
+      "language": "Greek",
+      "ethnicity": "European",
+      "race": "Greek",
+      "medical_history": []
+    },
+    {
+      "id": "M071",
+      "name": "Amara Diallo",
+      "gender": "Female",
+      "language": "French",
+      "ethnicity": "African",
+      "race": "African",
+      "medical_history": ["Malaria"]
+    },
+    {
+      "id": "M072",
+      "name": "Kofi Mensah",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African",
+      "medical_history": []
+    },
+    {
+      "id": "M073",
+      "name": "Chike Okonkwo",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "Nigerian",
+      "medical_history": ["Hypertension"]
+    },
+    {
+      "id": "M074",
+      "name": "Ama Boateng",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "African",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M075",
+      "name": "Thabo Molefe",
+      "gender": "Male",
+      "language": "Zulu",
+      "ethnicity": "African",
+      "race": "African",
+      "medical_history": ["HIV/AIDS"]
+    },
+    {
+      "id": "M076",
+      "name": "Zainab Mohamed",
+      "gender": "Female",
+      "language": "Arabic",
+      "ethnicity": "African",
+      "race": "Arab",
+      "medical_history": []
+    },
+    {
+      "id": "M077",
+      "name": "Karim Benali",
+      "gender": "Male",
+      "language": "Arabic",
+      "ethnicity": "African",
+      "race": "Arab",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M078",
+      "name": "Nadia Hamad",
+      "gender": "Female",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": ["Hypertension"]
+    },
+    {
+      "id": "M079",
+      "name": "Samir Al-Rashid",
+      "gender": "Male",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M080",
+      "name": "Layla Abadi",
+      "gender": "Female",
+      "language": "Persian",
+      "ethnicity": "Middle Eastern",
+      "race": "Persian",
+      "medical_history": []
+    },
+    {
+      "id": "M081",
+      "name": "Farhad Karimi",
+      "gender": "Male",
+      "language": "Persian",
+      "ethnicity": "Middle Eastern",
+      "race": "Persian",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M082",
+      "name": "Ravi Shankar",
+      "gender": "Male",
+      "language": "Tamil",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Heart Disease", "Hypertension"]
+    },
+    {
+      "id": "M083",
+      "name": "Divya Nambiar",
+      "gender": "Female",
+      "language": "Tamil",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": []
+    },
+    {
+      "id": "M084",
+      "name": "Nikhil Banerjee",
+      "gender": "Male",
+      "language": "Bengali",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Type 1 Diabetes"]
+    },
+    {
+      "id": "M085",
+      "name": "Chitrangada Roy",
+      "gender": "Female",
+      "language": "Bengali",
+      "ethnicity": "South Asian",
+      "race": "Indian",
+      "medical_history": ["Asthma"]
+    },
+    {
+      "id": "M086",
+      "name": "Suleiman Hassan",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "African",
+      "race": "Somali",
+      "medical_history": []
+    },
+    {
+      "id": "M087",
+      "name": "Hana Malik",
+      "gender": "Female",
+      "language": "Arabic",
+      "ethnicity": "African",
+      "race": "Arab",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M088",
+      "name": "Jamal Saeed",
+      "gender": "Male",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": ["Hypertension"]
+    },
+    {
+      "id": "M089",
+      "name": "Yasmin Khalil",
+      "gender": "Female",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Arab",
+      "medical_history": []
+    },
+    {
+      "id": "M090",
+      "name": "Tariq Abu",
+      "gender": "Male",
+      "language": "Arabic",
+      "ethnicity": "Middle Eastern",
+      "race": "Palestinian",
+      "medical_history": ["PTSD"]
+    },
+    {
+      "id": "M091",
+      "name": "Leah Solomon",
+      "gender": "Female",
+      "language": "Hebrew",
+      "ethnicity": "Middle Eastern",
+      "race": "Jewish",
+      "medical_history": []
+    },
+    {
+      "id": "M092",
+      "name": "Benjamin Gold",
+      "gender": "Male",
+      "language": "Hebrew",
+      "ethnicity": "Middle Eastern",
+      "race": "Jewish",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M093",
+      "name": "Miriam Stern",
+      "gender": "Female",
+      "language": "Yiddish",
+      "ethnicity": "European",
+      "race": "Jewish",
+      "medical_history": ["High Cholesterol"]
+    },
+    {
+      "id": "M094",
+      "name": "Jacob Rosenberg",
+      "gender": "Male",
+      "language": "Yiddish",
+      "ethnicity": "European",
+      "race": "Jewish",
+      "medical_history": []
+    },
+    {
+      "id": "M095",
+      "name": "Rachel Levi",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "Middle Eastern",
+      "race": "Jewish",
+      "medical_history": ["Anxiety", "Depression"]
+    },
+    {
+      "id": "M096",
+      "name": "Samuel Cohen",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "Middle Eastern",
+      "race": "Jewish",
+      "medical_history": ["Heart Disease"]
+    },
+    {
+      "id": "M097",
+      "name": "Hannah Steinberg",
+      "gender": "Female",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": []
+    },
+    {
+      "id": "M098",
+      "name": "Aaron Feldman",
+      "gender": "Male",
+      "language": "English",
+      "ethnicity": "European",
+      "race": "Caucasian",
+      "medical_history": ["High Blood Pressure"]
+    },
+    {
+      "id": "M099",
+      "name": "Sophie Marchand",
+      "gender": "Female",
+      "language": "French",
+      "ethnicity": "European",
+      "race": "French",
+      "medical_history": ["Type 2 Diabetes"]
+    },
+    {
+      "id": "M100",
+      "name": "Laurent Fontaine",
+      "gender": "Male",
+      "language": "French",
+      "ethnicity": "European",
+      "race": "French",
+      "medical_history": []
+    }
+  ]
+}
